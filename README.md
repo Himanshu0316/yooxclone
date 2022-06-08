@@ -2,7 +2,7 @@
 This is clone of E-commerce website yoox.com.this is the most perfered website for groccerys.
 This project has been made by using the tools of HTML , CSS , JAVASCRIPT only and have been merged on GITHUB.
 
-[Deploy link](https://pensive-shirley-07b02e.netlify.app)
+[Deploy link](https://glistening-mermaid-2f2353.netlify.app/)
 
 ## Tech Stack:
 
